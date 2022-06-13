@@ -1,1 +1,30 @@
-/* Write your CSS here! */
+body {  
+    background-color: deepskyblue;
+    margin: 8px;  
+    display: block;
+    padding: 8px;
+  } 
+
+#mainHeading {
+    color: red;
+}
+
+.centered {
+    text-align: center;
+}
+
+.center-block {
+    text-align: center; 
+    display: inline-block;
+}
+
+.funParagraph {
+    color: green;
+ }
+
+ .button {
+     position: absolute;
+     background-color: yellow;
+     border: none;
+  }
+
